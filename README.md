@@ -1,6 +1,6 @@
 ![login](https://github.com/Esha-Lohia/Esha-Lohia/blob/main/banner.png.png)
 <h1 align="center">Hi 👋, I'm Esha Lohia !</h1>
-<img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--O0u1bNHs--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://miro.medium.com/max/1400/0*PXf5ge7QCN9Ga_CL.gif">
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 <h3 align="left"> As a passionate and ambitious individual, I thrive on exploring new ideas and learning innovative concepts. My drive is to tackle real-life problems with unique solutions. I am developing expertise in Full Stack Development. Beyond academics, I am an enthusiastic participant in co-curricular activities.</h3><h3 align="left"> As a team player, I've participated in numerous competitions, showcasing my leadership skills, problem-solving abilities, collaborative mindset, adaptability, and resilience. I'm excited to continue exploring new opportunities, expanding my network, and pushing beyond my limits, while persevering through challenges.</h3>
 
 
